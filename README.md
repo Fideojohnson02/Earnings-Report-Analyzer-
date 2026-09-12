@@ -1,4 +1,8 @@
-actual
+Sistema en Python para analizar documentación financiera y, en etapas posteriores, producir un análisis fundamentado y una decisión LONG, SHORT o NO OPERAR.
+
+El sistema no ejecuta operaciones automáticamente.
+
+Estado actual
 
 - [x] Módulo 1 — Configuración y logging
 - [x] Módulo 2 — Loaders
